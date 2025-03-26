@@ -72,6 +72,7 @@ accessibility e84e
 accessibility_new e92c
 accessible e914
 accessible_forward e934
+accessible_menu f34e
 account_balance e84f
 account_balance_wallet e850
 account_box e851
@@ -162,6 +163,7 @@ alarm e855
 alarm_add e856
 alarm_off e857
 alarm_on e858
+alarm_pause f35b
 alarm_smart_wake f6b0
 album e019
 align_center e356
@@ -277,6 +279,7 @@ arrows_output f393
 arrows_outward f72c
 art_track e060
 article ef42
+article_person f368
 article_shortcut f587
 artist e01a
 aspect_ratio e85b
@@ -607,6 +610,22 @@ candlestick_chart ead4
 captive_portal f728
 capture f727
 car_crash ebf2
+car_defrost_left f344
+car_defrost_low_left f343
+car_defrost_low_right f342
+car_defrost_mid_low_left f341
+car_defrost_mid_right f340
+car_defrost_right f33f
+car_fan_low_left f33e
+car_fan_low_mid_left f33d
+car_fan_low_right f33c
+car_fan_mid_left f33b
+car_fan_mid_low_right f33a
+car_fan_mid_right f339
+car_fan_recirculate f338
+car_gear f337
+car_lock f336
+car_mirror_heat f335
 car_rental ea55
 car_repair ea56
 car_tag f4e3
@@ -671,6 +690,7 @@ checklist e6b1
 checklist_rtl e6b3
 checkroom f19e
 cheer f6a8
+chef_hat f357
 chess f5e7
 chess_pawn f3b6
 chevron_backward f46b
@@ -1075,6 +1095,7 @@ drive_file_rename_outline e9a2
 drive_folder_upload e9a3
 drive_fusiontable e678
 dropdown e9a4
+dropper_eye f351
 dry f1b3
 dry_cleaning ea58
 dual_screen f6cf
@@ -1086,7 +1107,12 @@ e911_avatar f11a
 e911_emergency f119
 e_mobiledata f002
 e_mobiledata_badge f7e3
+ear_sound f356
+earbud_case f327
+earbud_left f326
+earbud_right f325
 earbuds f003
+earbuds_2 f324
 earbuds_battery f004
 early_on e2ba
 earthquake f64f
@@ -1246,6 +1272,8 @@ family_home eb26
 family_link eb19
 family_restroom f1a2
 family_star f527
+fan_focus f334
+fan_indirect f333
 farsight_digital f559
 fast_forward e01f
 fast_rewind e020
@@ -1468,6 +1496,7 @@ forward_circle f6f5
 forward_media f6f4
 forward_to_inbox f187
 foundation f200
+fragrance f345
 frame_inspect f772
 frame_person f8a6
 frame_person_mic f4d5
@@ -1517,6 +1546,7 @@ glass_cup f6e3
 globe e64c
 globe_asia f799
 globe_book f3c9
+globe_location_pin f35d
 globe_uk f798
 glucose e4a0
 glyphs f8a3
@@ -1543,6 +1573,7 @@ graph_3 f39e
 graph_4 f39d
 graph_5 f39c
 graph_6 f39b
+graph_7 f346
 graphic_eq e1b8
 grass f205
 grid_3x3 f015
@@ -1709,6 +1740,7 @@ humidity_low f164
 humidity_mid f165
 humidity_percentage f87e
 hvac f10e
+hvac_max_defrost f332
 ice_skating e50b
 icecream ea69
 id_card f4ca
@@ -1718,6 +1750,7 @@ ifl e025
 iframe f71b
 iframe_off f71c
 image e3f4
+image_arrow_up f317
 image_aspect_ratio e3f5
 image_not_supported f116
 image_search e43f
@@ -1732,6 +1765,9 @@ inactive_order e0fc
 inbox e156
 inbox_customize f859
 inbox_text f399
+inbox_text_asterisk f360
+inbox_text_person f35e
+inbox_text_share f35c
 incomplete_circle e79b
 indeterminate_check_box e909
 indeterminate_question_box f56d
@@ -1972,6 +2008,7 @@ locator_tag f8c1
 lock e899
 lock_clock ef57
 lock_open e898
+lock_open_circle f361
 lock_open_right f656
 lock_outline e899
 lock_person f8f3
@@ -2096,8 +2133,13 @@ mitre f547
 mixture_med e4c8
 mms e618
 mobile_friendly e200
+mobile_hand f323
+mobile_loupe f322
 mobile_off e201
 mobile_screen_share e0e7
+mobile_screensaver f321
+mobile_sound_2 f318
+mobile_speaker f320
 mobiledata_off f034
 mode f097
 mode_comment e253
@@ -2132,6 +2174,7 @@ monochrome_photos e403
 monorail f473
 mood ea22
 mood_bad e7f3
+moon_stars f34f
 mop e28d
 moped eb28
 more e619
@@ -2283,6 +2326,7 @@ newsstand e9c4
 next_plan ef5d
 next_week e16a
 nfc e1bb
+nfc_off f369
 night_shelter f1f1
 night_sight_auto f1d7
 night_sight_auto_off f1f9
@@ -2329,6 +2373,8 @@ notes e26c
 notification_add e399
 notification_important e004
 notification_multiple e6c2
+notification_settings f367
+notification_sound f353
 notifications e7f5
 notifications_active e7f7
 notifications_none e7f5
@@ -2479,6 +2525,7 @@ person_play f7fd
 person_raised_hand f59a
 person_remove ef66
 person_search f106
+person_shield e384
 personal_bag eb0e
 personal_bag_off eb0f
 personal_bag_question eb10
@@ -2575,6 +2622,7 @@ playlist_add_check_circle e7e6
 playlist_add_circle e7e5
 playlist_play e05f
 playlist_remove eb80
+plug_connect f35a
 plumbing f107
 plus_one e800
 podcasts f048
@@ -2873,6 +2921,12 @@ search_check_2 f469
 search_hands_free e696
 search_insights f4bc
 search_off ea76
+seat_cool_left f331
+seat_cool_right f330
+seat_heat_left f32f
+seat_heat_right f32e
+seat_vent_left f32d
+seat_vent_right f32c
 security e32a
 security_key f503
 security_update f072
@@ -3169,6 +3223,7 @@ square_dot f3b3
 square_foot ea49
 ssid_chart eb66
 stack f609
+stack_group f359
 stack_hexagon f41c
 stack_off f608
 stack_star f607
@@ -3189,7 +3244,9 @@ star_outline f09a
 star_purple500 f09a
 star_rate f0ec
 star_rate_half ec45
+star_shine f31d
 stars e8d0
+stars_2 f31c
 start e089
 stat_0 e697
 stat_1 e698
@@ -3202,6 +3259,7 @@ stay_current_landscape e0d3
 stay_current_portrait e0d4
 stay_primary_landscape e0d5
 stay_primary_portrait e0d6
+steering_wheel_heat f32b
 step f6fe
 step_into f701
 step_out f700
@@ -3237,8 +3295,13 @@ stroller f1ae
 style e41d
 styler e273
 stylus f604
+stylus_brush f366
+stylus_fountain_pen f365
+stylus_highlighter f364
 stylus_laser_pointer f747
 stylus_note f603
+stylus_pen f363
+stylus_pencil f362
 subdirectory_arrow_left e5d9
 subdirectory_arrow_right e5da
 subheader e9ea
@@ -3246,6 +3309,7 @@ subject e8d2
 subscript f111
 subscriptions e064
 subtitles e048
+subtitles_gear f355
 subtitles_off ef72
 subway e56f
 summarize f071
@@ -3281,6 +3345,7 @@ swipe_vertical eb51
 switch e1f4
 switch_access f6fd
 switch_access_2 f506
+switch_access_3 f34d
 switch_access_shortcut e7e1
 switch_access_shortcut_add e7e2
 switch_account e9ed
@@ -3655,6 +3720,7 @@ voice_over_off e94a
 voice_selection f58a
 voice_selection_off f42c
 voicemail e0d9
+voicemail_2 f352
 volcano ebda
 volume_down e04d
 volume_down_alt e79c
@@ -3667,6 +3733,7 @@ vpn_key e0da
 vpn_key_alert f6cc
 vpn_key_off eb7a
 vpn_lock e62f
+vpn_lock_2 f350
 vr180_create2d efca
 vr180_create2d_off f571
 vrpano f082
@@ -3675,6 +3742,8 @@ wall_lamp e2b4
 wallet f8ff
 wallpaper e1bc
 wallpaper_slideshow f672
+wand_shine f31f
+wand_stars f31e
 ward e13c
 warehouse ebb8
 warning f083
@@ -3768,6 +3837,9 @@ window f088
 window_closed e77e
 window_open e78c
 window_sensor e2bb
+windshield_defrost_front f32a
+windshield_defrost_rear f329
+windshield_heat_front f328
 wine_bar f1e8
 woman e13e
 woman_2 f8e7
