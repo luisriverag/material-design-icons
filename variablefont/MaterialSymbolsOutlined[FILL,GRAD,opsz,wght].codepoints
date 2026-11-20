@@ -22,6 +22,7 @@
 24fps_select f3f2
 24mp e962
 2d ef37
+2d_2 fff0e
 2k e963
 2k_plus e964
 2mp e965
@@ -29,6 +30,7 @@
 30fps_select efcf
 360 e577
 3d ed38
+3d_2 fff0f
 3d_rotation e84d
 3g_mobiledata efd0
 3g_mobiledata_badge f7f0
@@ -106,8 +108,8 @@ add_business e729
 add_call f0b7
 add_card eb86
 add_chart ef3c
-add_circle e3ba
-add_circle_outline e3ba
+add_circle e990
+add_circle_outline e990
 add_column_left f425
 add_column_right f424
 add_comment e266
@@ -258,6 +260,7 @@ approval_delegation f84a
 approval_delegation_off f2c5
 apps e5c3
 apps_outage e7cc
+apps_plus ffea7
 aq f55a
 aq_indoor f55b
 ar_on_you ef7c
@@ -348,6 +351,7 @@ attach_money e227
 attachment e2bc
 attractions ea52
 attribution efdb
+audio_capture fff03
 audio_description f58c
 audio_file eb82
 audio_video_receiver f5d3
@@ -513,14 +517,13 @@ beenhere e52d
 beer_meal f285
 bento f1f4
 bia f6eb
-bid_landscape e678
+bid_landscape e667
 bid_landscape_disabled ef81
 bigtop_updates e669
 bike_dock f47b
 bike_lane f47a
 bike_scooter ef45
 biotech ea3a
-bitbucket fff17
 blanket e828
 blender efe3
 blind f8d6
@@ -636,6 +639,7 @@ bucket_check ef2a
 bug_report e868
 build f8cd
 build_circle ef48
+bullet_chart ffec7
 bungalow e591
 burst_mode e43c
 bus_alert e98f
@@ -720,6 +724,7 @@ car_lock f336
 car_mirror_heat f335
 car_rental ea55
 car_repair ea56
+car_seat_off ffebe
 car_tag f4e3
 card_giftcard e8f6
 card_membership e8f7
@@ -742,7 +747,7 @@ cast_for_education efec
 cast_pause f5f0
 cast_warning f5ef
 castle eab1
-category e574
+category e72c
 category_search f437
 celebration ea65
 cell_merge f82e
@@ -768,13 +773,14 @@ chat_bubble e0cb
 chat_bubble_off fffbb
 chat_bubble_outline e0cb
 chat_dashed eeed
+chat_display ffeac
 chat_error f7ac
 chat_info f52b
 chat_paste_go f6bd
 chat_paste_go_2 f3cb
-check e5ca
+check e668
 check_alert fff85
-check_box e834
+check_box e9de
 check_box_outline_blank e835
 check_circle f0be
 check_circle_filled f0be
@@ -807,7 +813,7 @@ chevron_left e5cb
 chevron_line_up eec3
 chevron_right e5cc
 child_care eb41
-child_friendly eb42
+child_friendly ef80
 child_hat ef30
 chip_extraction f821
 chips e993
@@ -848,6 +854,7 @@ close_small f508
 closed_caption e996
 closed_caption_add f4ae
 closed_caption_disabled f1dc
+closed_caption_display ffeab
 closed_caption_off e996
 cloud f15c
 cloud_alert f3cc
@@ -934,7 +941,7 @@ contrast_circle f49f
 contrast_rtl_off ec72
 contrast_square f4a0
 control_camera e074
-control_point e3ba
+control_point e990
 control_point_duplicate e3bb
 controller_gen e83d
 conversation ef2f
@@ -974,6 +981,8 @@ crib e588
 crisis_alert ebe9
 crop e3be
 crop_16_9 e3bc
+crop_21_9 fff0a
+crop_2_3 fff0b
 crop_3_2 e3bd
 crop_5_4 e3bf
 crop_7_5 e3c0
@@ -1011,6 +1020,7 @@ dangerous e99a
 dark_mode e51c
 dashboard e871
 dashboard_2 f3ea
+dashboard_2_add ffee9
 dashboard_2_edit fffd7
 dashboard_2_gear fffd6
 dashboard_customize e99b
@@ -1091,6 +1101,7 @@ developer_mode_tv e874
 device_band f2f5
 device_hub e335
 device_reset e8b3
+device_swoosh_star ffeb8
 device_thermostat e1ff
 device_unknown f2e1
 devices e326
@@ -1144,7 +1155,9 @@ disc_full e610
 discover_tune e018
 dishwasher e9a0
 dishwasher_gen e832
+display_add ffed2
 display_external_input f7e7
+display_group ffeaa
 display_settings eb97
 distance f6ea
 diversity_1 f8d7
@@ -1172,9 +1185,12 @@ docs_add_on f0c2
 docs_apps_script f0c3
 document_scanner e5fa
 document_search f385
+document_share ffea6
+document_share_stack ffe93
 domain e7ee
 domain_add eb62
 domain_disabled e0ef
+domain_disabled_check ffec6
 domain_verification ef4c
 domain_verification_off f7b0
 domino_mask f5e4
@@ -1215,12 +1231,13 @@ drive_export f41d
 drive_file_move e9a1
 drive_file_move_outline e9a1
 drive_file_move_rtl e9a1
+drive_file_rename e676
 drive_file_rename_outline e9a2
 drive_folder_upload e9a3
-drive_fusiontable e678
 drone f25a
 drone_2 f259
 dropdown e9a4
+dropdown_menu ffef0
 dropper_eye f351
 dry f1b3
 dry_cleaning ea58
@@ -1256,6 +1273,7 @@ edit_attributes e578
 edit_audio f42d
 edit_calendar e742
 edit_document f88c
+edit_line ffea5
 edit_location e568
 edit_location_alt e1c5
 edit_note e745
@@ -1377,6 +1395,7 @@ eyebrow eeb3
 eyeglasses f6ee
 eyeglasses_2 f2c7
 eyeglasses_2_sound f265
+eyeglasses_3 ffef1
 face f008
 face_2 f8da
 face_3 f8db
@@ -1461,6 +1480,7 @@ filter_alt ef4f
 filter_alt_off eb32
 filter_arrow_right f3d1
 filter_b_and_w e3db
+filter_cancel ffea4
 filter_center_focus e3dc
 filter_drama e3dd
 filter_frames e3de
@@ -1469,6 +1489,7 @@ filter_list e152
 filter_list_alt e94e
 filter_list_off eb57
 filter_none e3e0
+filter_plus ffea3
 filter_retrolux e3e1
 filter_tilt_shift e3e2
 filter_vintage e3e3
@@ -1656,6 +1677,7 @@ fullscreen e5d0
 fullscreen_exit e5d1
 fullscreen_portrait f45a
 function f866
+function_search ffea2
 functions e24a
 funicular f477
 g_mobiledata f010
@@ -1711,13 +1733,13 @@ gif_2 f40e
 gif_box e7a3
 girl eb68
 gite e58b
-gitlab fff18
 glass_cup f6e3
 globe e64c
 globe_2_cancel fffb7
 globe_2_question fffb6
 globe_asia f799
 globe_book f3c9
+globe_clock ffed1
 globe_location_pin f35d
 globe_uk f798
 glucose e4a0
@@ -1762,6 +1784,7 @@ grid_view e9b0
 grocery ef97
 group ea21
 group_add e7f0
+group_eye ffea1
 group_off e747
 group_remove e7ad
 group_search f3ce
@@ -1849,6 +1872,7 @@ hide_source f023
 high_chair f29a
 high_density f79c
 high_quality e024
+high_quality_off ffed6
 high_res f54b
 highlight e25f
 highlight_alt ef52
@@ -1932,6 +1956,7 @@ hvac_max_defrost f332
 ice_skating e50b
 icecream ea69
 id_card f4ca
+id_card_2 ffeea
 identity_aware_proxy e2dd
 identity_platform ebb7
 ifl e025
@@ -1939,7 +1964,7 @@ iframe f71b
 iframe_off f71c
 image e3f4
 image_arrow_up f317
-image_aspect_ratio e3f5
+image_aspect_ratio e6a6
 image_inset f247
 image_not_supported f116
 image_search e43f
@@ -2005,6 +2030,7 @@ jamboard_kiosk e9b5
 japanese_curry f284
 japanese_flag f283
 javascript eb7c
+jewelry ffedb
 join f84f
 join_full f84f
 join_inner eaf4
@@ -2015,9 +2041,9 @@ jump_to_element f719
 kanji_alcohol f23e
 kayaking e50c
 kebab_dining e842
-keep f026
+keep f027
 keep_off e6f9
-keep_pin f026
+keep_pin f027
 keep_public f56f
 kettle e2b9
 key e73c
@@ -2072,7 +2098,7 @@ landscape_2 f4c4
 landscape_2_edit f310
 landscape_2_off f4c3
 landslide ebd7
-language e894
+language ea07
 language_chinese_array f766
 language_chinese_cangjie f765
 language_chinese_dayi f764
@@ -2122,6 +2148,7 @@ light f02a
 light_group e28b
 light_group_2 fff76
 light_mode e518
+light_mode_auto fff00
 light_off e9b8
 lightbulb e90f
 lightbulb_2 f3e3
@@ -2154,6 +2181,7 @@ linked_services f535
 lips eeb2
 liquor ea60
 list e896
+list_2 ffeca
 list_alt e0ee
 list_alt_add f756
 list_alt_check f3de
@@ -2216,10 +2244,14 @@ login ea77
 logo_dev ead6
 logout e9ba
 looks e3fc
+looks_0 ffe97
 looks_3 e3fb
 looks_4 e3fd
 looks_5 e3fe
 looks_6 e3ff
+looks_7 ffe9a
+looks_8 ffe99
+looks_9 ffe98
 looks_one e400
 looks_two e401
 loop e863
@@ -2274,7 +2306,9 @@ mark_email_read f18c
 mark_email_unread f18a
 mark_unread_chat_alt eb9d
 markdown f552
+markdown_convert ffea0
 markdown_copy f553
+markdown_document ffe9f
 markdown_paste f554
 markunread e159
 markunread_mailbox e89b
@@ -2357,6 +2391,7 @@ mobile_charge f2e3
 mobile_chat f79f
 mobile_check f073
 mobile_code f2e2
+mobile_dock f2e0
 mobile_dots f2d0
 mobile_friendly f073
 mobile_gear f2d9
@@ -2385,6 +2420,7 @@ mobile_sound f2e8
 mobile_sound_2 f318
 mobile_sound_off f7aa
 mobile_speaker f320
+mobile_tap ffeb2
 mobile_text f2eb
 mobile_text_2 f2e6
 mobile_theft f2a9
@@ -2724,7 +2760,7 @@ pallet f86a
 pan_tool e925
 pan_tool_alt ebb9
 pan_zoom f655
-panorama e40b
+panorama e691
 panorama_fish_eye e40c
 panorama_horizontal e40d
 panorama_photosphere e9c9
@@ -2771,6 +2807,8 @@ pentagon eb50
 people ea21
 people_alt ea21
 people_outline ea21
+people_size_decrease ffeb1
+people_size_increase ffeb0
 percent eb58
 percent_discount f244
 performance_max e51a
@@ -2797,6 +2835,7 @@ person_cancel f566
 person_celebrate f7fe
 person_check f565
 person_edit f4fa
+person_eye ffe9e
 person_filled f0d3
 person_heart f290
 person_off e510
@@ -2841,7 +2880,7 @@ phonelink_off f7a5
 phonelink_ring f2e8
 phonelink_ring_off f7aa
 phonelink_setup f2d9
-photo e432
+photo e693
 photo_album e411
 photo_auto_merge f530
 photo_camera e412
@@ -2851,7 +2890,7 @@ photo_filter e43b
 photo_frame f0d9
 photo_library e413
 photo_prints efb2
-photo_size_select_actual e432
+photo_size_select_actual e693
 photo_size_select_large e433
 photo_size_select_small e434
 php eb8f
@@ -2880,6 +2919,7 @@ pin_end e767
 pin_history fff2e
 pin_invoke e763
 pin_road fff2d
+pin_road_2 ffeeb
 pinboard f3ab
 pinboard_unread f3ac
 pinch eb38
@@ -2958,7 +2998,7 @@ print_connect f7a1
 print_disabled e9cf
 print_error f7a0
 print_lock f651
-priority e19f
+priority efb4
 priority_high e645
 privacy f148
 privacy_tip f0dc
@@ -3087,6 +3127,7 @@ report_problem f083
 request_page f22c
 request_quote f1b6
 reset_brightness f482
+reset_colors ffee2
 reset_exposure f266
 reset_focus f481
 reset_image f824
@@ -3209,7 +3250,7 @@ sd_card e623
 sd_card_alert f057
 sd_storage e623
 sdk e720
-search e8b6
+search ef7a
 search_activity f3e5
 search_check f800
 search_check_2 f469
@@ -3221,8 +3262,10 @@ seat_cool_left f331
 seat_cool_right f330
 seat_heat_left f32f
 seat_heat_right f32e
+seat_read ffeda
 seat_vent_left f32d
 seat_vent_right f32c
+seat_window ffee1
 security e32a
 security_key f503
 security_update f2cd
@@ -3296,6 +3339,7 @@ settings_phone e8c5
 settings_photo_camera f834
 settings_power e8c6
 settings_remote e8c7
+settings_screen ffedf
 settings_seating ef2d
 settings_slow_motion f623
 settings_suggest f05e
@@ -3320,6 +3364,7 @@ share_off f6cb
 share_reviews f8a4
 share_windows f613
 shaved_ice f225
+sheets_column_swap ffe9d
 sheets_rtl f823
 shelf_auto_hide f703
 shelf_position f702
@@ -3364,6 +3409,7 @@ sick f220
 side_navigation e9e2
 sign_language ebe5
 sign_language_2 f258
+sign_language_off ffee4
 signal_cellular_0_bar f0a8
 signal_cellular_1_bar f0a9
 signal_cellular_2_bar f0aa
@@ -3396,7 +3442,9 @@ signpost eb91
 sim_card e32b
 sim_card_alert f057
 sim_card_download f068
+sim_card_lock ffec1
 simulation f3e1
+single_arrow ffed9
 single_bed ea48
 sip f069
 siren f3a7
@@ -3433,6 +3481,7 @@ smoke_free eb4a
 smoking_rooms eb4b
 sms e625
 sms_failed e87f
+snail ffede
 snippet_folder f1c7
 snooze e046
 snowboarding e513
@@ -3469,10 +3518,12 @@ space_dashboard e66b
 space_dashboard_2 fff8c
 spatial_audio ebeb
 spatial_audio_off ebe8
+spatial_gallery ffeb6
 spatial_speaker f4cf
 spatial_tracking ebea
 speaker e32d
 speaker_2 fff71
+speaker_3 ffeb7
 speaker_group e32e
 speaker_notes e8cd
 speaker_notes_off e92a
@@ -3480,6 +3531,7 @@ speaker_phone e0d2
 special_character f74a
 specific_gravity f872
 speech_to_text f8a7
+speech_to_text_2 ffec9
 speed e9e4
 speed_0_25 f4d4
 speed_0_2x f498
@@ -3498,9 +3550,11 @@ speed_2 fff38
 speed_2x f4eb
 speed_3 fff37
 speed_4 fff36
+speed_4_progress ffe94
 speed_camera f470
 spellcheck e8ce
 split_scene f3bf
+split_scene_2 ffef7
 split_scene_down f2ff
 split_scene_left f2fe
 split_scene_right f2fd
@@ -3583,6 +3637,7 @@ stay_current_landscape ed3e
 stay_current_portrait e7ba
 stay_primary_landscape ed3e
 stay_primary_portrait f2d3
+steering_wheel_cool ffebd
 steering_wheel_heat f32b
 step f6fe
 step_into f701
@@ -3746,6 +3801,7 @@ tamper_detection_on f8c8
 tap_and_play f2cc
 tapas f1e9
 target e719
+target_check ffeb3
 task f075
 task_alt e2e6
 tatami_seat ef33
@@ -3759,6 +3815,7 @@ temple_hindu eaaf
 tenancy f0e3
 terminal eb8e
 terminal_2 fff8e
+terminal_add ffed3
 terrain e564
 text_ad e728
 text_ad_off fff92
@@ -4025,6 +4082,8 @@ video_camera_front f080
 video_camera_front_off f83b
 video_chat f8a0
 video_file eb87
+video_frame_copy fff0d
+video_frame_save fff0c
 video_label e071
 video_library e04a
 video_search efc6
@@ -4094,6 +4153,7 @@ vpn_lock_2 f350
 vr180_create2d efca
 vr180_create2d_off f571
 vrpano f082
+walk_bike fff01
 wall_art efcb
 wall_lamp e2b4
 wallet f8ff
@@ -4154,7 +4214,7 @@ wc e63d
 weather_hail f67f
 weather_mix f60b
 weather_snowy e2cd
-web e051
+web e66a
 web_asset e069
 web_asset_off ef47
 web_stories e595
